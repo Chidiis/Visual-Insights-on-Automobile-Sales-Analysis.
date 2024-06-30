@@ -1,4 +1,4 @@
-# Visual-Insights-on-Automobile-Sales-Analysis.
+# Visual Insights on Automobile Sales Analysis.
 
 This project focuses on analyzing historical automobile sales data to uncover insights and trends. The analysis involves data manipulation, visualization, and geographical plotting using various Python libraries.
 
